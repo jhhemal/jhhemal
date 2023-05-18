@@ -2,9 +2,6 @@
 <a href="https://discord.gg/ksayNwW7m5">
   <img align="left" alt="JH Hemal's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.facebook.com/jhhemal/">
-  <img align="left" alt="Jahidul Hasan Hemal's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
 <a href="https://twitter.com/jhhemal_me">
   <img align="left" alt="Jahidul Hasan Hemal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
